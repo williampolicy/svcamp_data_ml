@@ -5,3 +5,4 @@ V.0.4 -  bike_sharing_demand   ©KANG - 2024-05-08
 V.0.5 - Bike_Sharing_Dataset  ©KANG - 2024-05-08  
 V.0.6 - 7. Project Outcomes & Conclusions  ©KANG - 2024-05-08  
 V.0.7 - Bike_Sharing_Dataset - day  ©KANG - 2024-05-08  
+V.0.8 - bike_sharing_day.csv  ©KANG - 2024-05-09  
