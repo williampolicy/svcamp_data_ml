@@ -1,0 +1,2 @@
+V.0.1
+V.0.2 - Sigmoid_activation_function.png Tanh_activation_function.png  ©KANG - 2024-06-04  
