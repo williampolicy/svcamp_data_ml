@@ -13,3 +13,4 @@ V.0.12 - ml_class10  ©KANG - 2024-05-28
 V.0.13 - Ronald J. Williams  ©KANG - 2024-06-03  
 V.0.14 - Sigmoid_activation_functions.png Tanh_activation_functions.png  ©KANG - 2024-06-04  
 V.0.15 - ROC  ©KANG - 2024-06-14  
+V.0.16 - shap_out.png  ©KANG - 2024-06-14  
